@@ -1,6 +1,7 @@
 # vite-todo-app
-This is a todo app where we can add, delete, etc taks. This project was developed with VanillaJS and Vite.
-I made a store like pinia from zero, this provides a way to create stores for managing the state of the application.
+This is a todo app, we can add, delete, etc taks. This project was developed with VanillaJS and Vite.
+I made a store like pinia from zero, this provides a way to create stores for managing the state of the application. You can try it clicking the next link: <a href="https://vite-todo-app-75.netlify.app/" target="_blank">Vite ToDo App</a>
+
 
 Vite is a build tool and development server for modern web applications. It is designed to optimize the development experience by focusing on fast, efficient builds and a rapid development server. Vite is particularly well-suited for building Single Page Applications (SPAs) and other web projects.
 
